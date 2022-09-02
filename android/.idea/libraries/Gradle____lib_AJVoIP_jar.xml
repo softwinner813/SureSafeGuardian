@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./lib/AJVoIP.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/AJVoIP.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

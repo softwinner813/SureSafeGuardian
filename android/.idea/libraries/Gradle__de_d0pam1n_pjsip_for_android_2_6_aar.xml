@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: de.d0pam1n:pjsip-for-android:2.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/55732e746d1d1f6980cfebf59c68d6e6/transformed/jetified-pjsip-for-android-2.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/55732e746d1d1f6980cfebf59c68d6e6/transformed/jetified-pjsip-for-android-2.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/55732e746d1d1f6980cfebf59c68d6e6/transformed/jetified-pjsip-for-android-2.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.d0pam1n/pjsip-for-android/2.6/294ff7359289eac0492b21e4cc2383ae9cb5a7ac/pjsip-for-android-2.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.d0pam1n/pjsip-for-android/2.6/738b7a6c2edfec4da36dfe290351b8dfc3436f43/pjsip-for-android-2.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
